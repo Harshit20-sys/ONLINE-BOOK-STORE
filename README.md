@@ -101,6 +101,7 @@ OnlineBookStore/
 │   └── bookstore.sql         # Full DB schema and sample data
 │
 └── README.md
+
 📸 Screenshots
 
 🏠 Home Page
