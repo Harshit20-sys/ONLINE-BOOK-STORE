@@ -102,7 +102,6 @@ OnlineBookStore/
 │
 └── README.md
 📸 Screenshots
-(Save your screenshots in the /images folder and update the paths below.)
 
 🏠 Home Page
 ![Home Page](https://github.com/Harshit20-sys/ONLINE-BOOK-STORE/blob/99bd542e78eaecccfe5f283a4e5fb0b41b9817a9/WebContent/Screenshot%202025-07-31%20083228.png)
