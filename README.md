@@ -105,16 +105,16 @@ OnlineBookStore/
 (Save your screenshots in the /images folder and update the paths below.)
 
 🏠 Home Page
-![Home Page](screenshots/student_dashboard.png)
+![Home Page](https://github.com/Harshit20-sys/ONLINE-BOOK-STORE/blob/99bd542e78eaecccfe5f283a4e5fb0b41b9817a9/WebContent/Screenshot%202025-07-31%20083228.png)
 
-🔐 User Login
-![User Login](screenshots/student_dashboard.png)
+🔐 Register Page
+![Register Page](https://github.com/Harshit20-sys/ONLINE-BOOK-STORE/blob/99bd542e78eaecccfe5f283a4e5fb0b41b9817a9/WebContent/Screenshot%202025-07-31%20083353.png)
 
 📚 Browse Books
-![Browse Books](screenshots/student_dashboard.png)
+![Browse Books](https://github.com/Harshit20-sys/ONLINE-BOOK-STORE/blob/99bd542e78eaecccfe5f283a4e5fb0b41b9817a9/WebContent/Screenshot%202025-07-31%20083314.png)
 
 🧾 Admin Dashboard
-![Admin Dashboard](screenshots/student_dashboard.png)
+![Admin Dashboard](https://github.com/Harshit20-sys/ONLINE-BOOK-STORE/blob/99bd542e78eaecccfe5f283a4e5fb0b41b9817a9/WebContent/Screenshot%202025-07-31%20083331.png)
 
 
 ⚙️ Setup Instructions
